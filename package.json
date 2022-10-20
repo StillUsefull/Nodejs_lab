@@ -9,6 +9,7 @@
     "start": "npm run build && node build/index.js",
     "lint:check": "eslint src/**/*.ts",
     "lint:fix": "eslint src/**/*.ts --fix",
+    "deploy": "npm run deploy --prefix ./functions/",
     "format:check": "prettier src/**/*.ts --check",
     "format:fix": "prettier src/**/*.ts --write",
     "install": "husky install"
