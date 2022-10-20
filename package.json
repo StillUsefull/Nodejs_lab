@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/StillUsefull/Nodejs_lab/issues"
   },
-  "homepage": "https://github.com/StillUsefull/Nodejs_lab#readme"
+  "homepage": "https://github.com/StillUsefull/Nodejs_lab#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
