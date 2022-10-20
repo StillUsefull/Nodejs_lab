@@ -18,5 +18,8 @@
   "homepage": "https://github.com/StillUsefull/Nodejs_lab#readme",
   "devDependencies": {
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"
   }
 }
